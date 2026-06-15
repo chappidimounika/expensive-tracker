@@ -10,6 +10,27 @@ Nexus Expense Tracker - Implementation Plan
 [x] 8) Accessibility pass.
 [x] 9) Final polish.
 -->
+# Expense Tracker
+
+A web application that helps users manage and track their daily income and expenses.
+
+## Features
+
+* Add Income
+* Add Expenses
+* View Balance
+* Transaction History
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+## Author
+
+Chappidi Mounika
+
 
 # Nexus Expense Tracker
 
